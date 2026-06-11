@@ -49,6 +49,6 @@ The outback sun is unforgiving, the cooling fans are straining against the ambie
 
 * **Tech Stack:** Python 3.x using industry-standard libraries (LangChain / LlamaIndex). Utilize vector databases (e.g., ChromaDB, Qdrant).
 * **Originality:** Custom implementation of agentic workflows and extraction heuristics is required; reliance on turnkey libraries without custom logic is discouraged.
-* **Environment:** Development and execution within a Kaggle Notebook or a public GitHub repository.
+* **Environment:** Development and execution within a public GitHub repository.
 * **Submission Details:** Submit the final URL via the induction dashboard. The codebase must be maintainable, thoroughly commented, and functional.
 * **Deadline:** 8 July 2026, 11:59 PM IST
